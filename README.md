@@ -84,7 +84,7 @@ func f(){
 <hr>
 
 **Arrays, Slices, and Maps**
-```
+```go
 func main(){
 	x := [5]float64{ 98, 93, 77, 82, 83}
 	var total float64 = 0
