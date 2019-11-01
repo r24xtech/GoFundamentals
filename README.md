@@ -42,4 +42,7 @@ func f(){
 
 	fmt.Println(output)
 }
+// 10100 |==| Hello, world! ||==|| This string is constant
+// Enter a number: 3
+// 6
 ```
