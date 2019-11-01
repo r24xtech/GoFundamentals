@@ -85,6 +85,7 @@ func f(){
 
 **Arrays, Slices, and Maps**
 ```go
+// Arrays
 func main(){
 	x := [5]float64{ 98, 93, 77, 82, 83}
 	var total float64 = 0
