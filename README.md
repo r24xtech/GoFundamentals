@@ -80,3 +80,29 @@ func f(){
 // Enter a number: 3
 // 6
 ```
+
+<hr>
+
+**Arrays, Slices, and Maps**
+```
+func main(){
+	x := [5]float64{ 98, 93, 77, 82, 83}
+	var total float64 = 0
+
+	for _, value := range x {
+		total += value
+	}
+	fmt.Println(total / float64(len(x)))
+	g()
+}
+
+func g(){
+	my_array := [5]float64{ 1, 2, 3, 4, 5}
+	var total float64 = 0
+
+	for i := 0; i < len(my_array); i++{
+		total += my_array[i]
+	}
+	fmt.Println(total/float64(len(my_array)))
+}
+```
