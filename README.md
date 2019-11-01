@@ -8,10 +8,8 @@ Golang fundamentals.
 
 ```go
 // go run Main.go
-// go build ("stops at the folder Main.go is on") 
-// (W10) creates .exe file at same loc you were when you used 'go build'
+// go build -- creates .exe file at same loc you were when you used 'go build'
 // go install
-// bin/firstapp
 
 package main
 
