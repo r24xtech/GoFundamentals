@@ -138,3 +138,9 @@ func main(){
 // [1 2 3] [1 2]
 ```
 * A map is an unordered collection of key-value pairs (maps are also sometimes calledassociative arrays, hash tables, or dictionaries). Maps are used to look up a value by itsassociated key.
+```go
+	x := make(map[string]int)
+	x["key"] = 10
+	fmt.Println(x["key"])
+//10
+```
