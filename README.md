@@ -137,3 +137,4 @@ func main(){
 }
 // [1 2 3] [1 2]
 ```
+* A map is an unordered collection of key-value pairs (maps are also sometimes calledassociative arrays, hash tables, or dictionaries). Maps are used to look up a value by itsassociated key.
