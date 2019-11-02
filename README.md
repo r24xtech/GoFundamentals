@@ -107,3 +107,15 @@ func g(){
 	fmt.Println(total/float64(len(my_array)))
 }
 ```
+
+
+```go
+func main(){
+	var x []float64 //slice
+	y := make([]float64, 5) //slice
+	arr := [5]float64{1, 2, 3, 4, 5} //array
+	z := arr[2:5] //slice of array
+	fmt.Println(x, y, z, arr)
+// [] [0 0 0 0 0] [3 4 5] [1 2 3 4 5]
+}
+```
