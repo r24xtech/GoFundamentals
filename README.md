@@ -145,7 +145,7 @@ func main(){
 //10
 ```
 
-**Functioins**
+**Functions**
 
 ```go
 func main(){
