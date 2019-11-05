@@ -1,0 +1,22 @@
+(X) go install
+(Y) go build
+(Z) go run hello.go
+
+[system variables - Path]
+(A) C:\Go\bin
+(B) C:\Users\r24xt\Desktop\Projects\gocode\bin
+
+(B) allows me to run (X)'s result from any directory
+
+[GOPATH]
+%USERPROFILE%\Desktop\Projects\gocode
+
+||===============||
+(Y) then (X)
+"to make the string package available to other code,
+we need to install the package object to our workspace
+with go install"
+C:\Users\r24xt\Desktop\Projects\gocode\pkg\windows_amd64\github.com\r24xtech>
+string.a == package object
+
+(X) again, now it can use the string package
