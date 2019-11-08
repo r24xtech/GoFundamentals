@@ -161,3 +161,41 @@ func average(xs []float64)float64{
 	return total/float64(len(xs))
 }
 ```
+
+<hr><hr>
+
+https://gowebexamples.com/routes-using-gorilla-mux/
+
+http://www.gorillatoolkit.org/pkg/mux
+
+https://gobuffalo.io/en/docs/routing/
+
+[gophercises] => gmail stuff.c14 has the link to gophercises projects; good source.
+
+https://duckduckgo.com/?q=installing+packages+golang&t=ffab&atb=v192-6&ia=web
+
+||====||
+
+https://github.com/golang/go/wiki/Books
+
+https://github.com/jakescript/go-bible
+
+https://github.com/dariubs/GoBooks
+
+https://github.com/hoanhan101/ultimate-go
+
+https://www.amazon.com.br/Writing-Interpreter-English-Thorsten-Ball-ebook/dp/B01N2T1VD2
+
+https://lets-go.alexedwards.net/ [paid book]
+
+https://www.usegolang.com/ [paid book]
+
+https://github.com/quii/learn-go-with-tests
+
+https://gobuffalo.io/en/
+
+https://gophercises.com/
+
+Golang doesn't change that much...you can use books that are a few years old.
+it's from 2016 but because of Go backward compatibility everything from the book is still valid
+![go-books-img](go-books-img)
