@@ -221,6 +221,10 @@ https://ieftimov.com/post/testing-in-go-first-principles/
 
 https://ieftimov.com/post/golang-datastructures-stacks-queues/
 
+https://www.programming-books.io/essential/go/interfaces-4f5f2959e72c431e995527b51ad7fd8e
+
+https://www.golang-book.com/books/intro/8
+
 |||||||=========||||||||
 Bookmarks
 
