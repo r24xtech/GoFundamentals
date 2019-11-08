@@ -198,4 +198,42 @@ https://gophercises.com/
 
 Golang doesn't change that much...you can use books that are a few years old.
 it's from 2016 but because of Go backward compatibility everything from the book is still valid
+
+
 ![go-books-img](go-books-img.png)
+
+Data Structures
+https://github.com/0xAX/go-algorithms
+
+https://github.com/arnauddri/algorithms
+
+https://github.com/floyernick/Data-Structures-and-Algorithms
+
+https://github.com/x899/algorithms
+
+https://www.golangprograms.com/data-structure-and-algorithms.html
+
+https://www.youtube.com/playlist?list=PLVEltXlEeWgkZsSMaPo40PmTpVT9gLivt
+
+https://www.calhoun.io/
+
+https://ieftimov.com/post/testing-in-go-first-principles/
+
+https://ieftimov.com/post/golang-datastructures-stacks-queues/
+
+|||||||=========||||||||
+Bookmarks
+
+https://github.com/golang/go/wiki/LearnServerProgramming
+
+https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/
+
+https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md
+
+https://github.com/dariubs/GoBooks
+
+https://golang.org/doc/code.html
+
+https://codegangsta.gitbooks.io/building-web-apps-with-go/content/
+
+
