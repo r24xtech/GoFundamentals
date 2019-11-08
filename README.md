@@ -170,7 +170,7 @@ http://www.gorillatoolkit.org/pkg/mux
 
 https://gobuffalo.io/en/docs/routing/
 
-[gophercises] => gmail stuff.c14 has the link to gophercises projects; good source.
+[gophercises] https://www.youtube.com/user/joncalhoun/playlists
 
 https://duckduckgo.com/?q=installing+packages+golang&t=ffab&atb=v192-6&ia=web
 
@@ -198,4 +198,4 @@ https://gophercises.com/
 
 Golang doesn't change that much...you can use books that are a few years old.
 it's from 2016 but because of Go backward compatibility everything from the book is still valid
-![go-books-img](go-books-img)
+![go-books-img](go-books-img.png)
