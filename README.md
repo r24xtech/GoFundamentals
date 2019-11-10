@@ -227,6 +227,10 @@ https://www.programming-books.io/
 
 https://www.golang-book.com/books/intro/8
 
+https://bogotobogo.com/GoLang/GoLang_Web.php
+
+https://bogotobogo.com/GoLang/GoLang_Linked_List.php
+
 |||||||=========||||||||
 Bookmarks
 
