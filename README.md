@@ -203,7 +203,10 @@ it's from 2016 but because of Go backward compatibility everything from the book
 ![go-books-img](go-books-img.png)
 
 **Data Structures**
+
 https://github.com/search?l=Go&q=data+structures&type=Repositories {all github repos: dataStructures}
+
+https://github.com/PeterRK/DSGO
 
 https://github.com/0xAX/go-algorithms
 
