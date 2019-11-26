@@ -253,8 +253,6 @@ https://codegangsta.gitbooks.io/building-web-apps-with-go/content/
 
 https://quii.gitbook.io/learn-go-with-tests/
 
-https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118/ref=sr_1_1?crid=QD5O3MXOY3BV&keywords=write+an+interpreter+in+go&qid=1574703860&sprefix=write+an+inter%2Caps%2C238&sr=8-1
-
 https://github.com/hoanhan101/ultimate-go
 
 
