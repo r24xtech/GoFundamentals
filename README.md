@@ -174,8 +174,6 @@ https://gobuffalo.io/en/docs/routing/
 
 https://duckduckgo.com/?q=installing+packages+golang&t=ffab&atb=v192-6&ia=web
 
-||====||
-
 https://github.com/golang/go/wiki/Books
 
 https://github.com/jakescript/go-bible
@@ -196,15 +194,12 @@ https://gobuffalo.io/en/
 
 https://gophercises.com/
 
-Golang doesn't change that much...you can use books that are a few years old.
-it's from 2016 but because of Go backward compatibility everything from the book is still valid
-
 
 ![go-books-img](go-books-img.png)
 
 **Data Structures**
 
-https://github.com/search?l=Go&q=data+structures&type=Repositories {all github repos: dataStructures}
+https://github.com/search?l=Go&q=data+structures&type=Repositories [github search "go data structures"]
 
 https://github.com/PeterRK/DSGO
 
@@ -218,7 +213,7 @@ https://github.com/x899/algorithms
 
 https://www.golangprograms.com/data-structure-and-algorithms.html
 
-https://www.youtube.com/playlist?list=PLVEltXlEeWgkZsSMaPo40PmTpVT9gLivt
+https://www.youtube.com/playlist?list=PLVEltXlEeWgkZsSMaPo40PmTpVT9gLivt [Let's Learn Algorithms - Jon Calhoun]
 
 https://www.calhoun.io/
 
@@ -236,9 +231,6 @@ https://bogotobogo.com/GoLang/GoLang_Web.php
 
 https://bogotobogo.com/GoLang/GoLang_Linked_List.php
 
-|||||||=========||||||||
-Bookmarks
-
 https://github.com/golang/go/wiki/LearnServerProgramming
 
 https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/
@@ -255,4 +247,8 @@ https://quii.gitbook.io/learn-go-with-tests/
 
 https://github.com/hoanhan101/ultimate-go
 
+https://github.com/search?q=go+restful [github search "go restful"]
 
+https://github.com/golang/go/wiki/Learn [links to learning resources]
+
+https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
