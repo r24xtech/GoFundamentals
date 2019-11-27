@@ -256,3 +256,9 @@ https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
 https://github.com/trending/go [trending Go repos on github]
 
 https://github.com/avelino/awesome-go [list of awesome Go frameworks, libraries and software]
+* financial
+* data structures
+* Science and Data Analysis (plotting and more)
+* Text Processing
+* web frameworks/routers
+* resources/e-books
