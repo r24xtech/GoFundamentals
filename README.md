@@ -252,3 +252,7 @@ https://github.com/search?q=go+restful [github search "go restful"]
 https://github.com/golang/go/wiki/Learn [links to learning resources]
 
 https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
+
+https://github.com/trending/go [trending Go repos on github]
+
+https://github.com/avelino/awesome-go [list of awesome Go frameworks, libraries and software]
