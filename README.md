@@ -264,9 +264,11 @@ https://github.com/avelino/awesome-go [list of awesome Go frameworks, libraries 
 * resources/e-books
 
 
-https://golang.org/pkg/net/http/#Request [net/http package key topics]
+https://golang.org/pkg/net/http/#Request [net/http package key topics]<br>
 https://golang.org/pkg/net/http/#ResponseWriter [A ResponseWriter interface is used by an HTTP handler to construct an HTTP response]
 * Check everything about net/http and its pieces
 
 
 https://codegangsta.gitbooks.io/building-web-apps-with-go/http_basics/index.html [good github book on web dev for Go]
+
+https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555/ref=sr_1_1?keywords=head+first+go&qid=1574908479&sr=8-1 [summary check only]
