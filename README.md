@@ -266,7 +266,7 @@ https://github.com/avelino/awesome-go [list of awesome Go frameworks, libraries 
 
 https://golang.org/pkg/net/http/#Request [net/http package key topics]<br>
 https://golang.org/pkg/net/http/#ResponseWriter [A ResponseWriter interface is used by an HTTP handler to construct an HTTP response]
-* Check everything about net/http and its pieces
+* Check everything about net/http and its pieces. What are all the pieces? is it an interface? is it a struct? what are their methods? etc../?
 
 
 https://codegangsta.gitbooks.io/building-web-apps-with-go/http_basics/index.html [good github book on web dev for Go]
