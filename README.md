@@ -272,3 +272,5 @@ https://golang.org/pkg/net/http/#ResponseWriter [A ResponseWriter interface is u
 https://codegangsta.gitbooks.io/building-web-apps-with-go/http_basics/index.html [good github book on web dev for Go]
 
 https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555/ref=sr_1_1?keywords=head+first+go&qid=1574908479&sr=8-1 [summary check only]
+
+https://github.com/golang/go/wiki/Modules [working with modules - create your own, git/github/repps and modules]
