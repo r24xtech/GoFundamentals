@@ -251,8 +251,6 @@ https://github.com/search?q=go+restful [github search "go restful"]
 
 https://github.com/golang/go/wiki/Learn [links to learning resources]
 
-https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
-
 https://github.com/trending/go [trending Go repos on github]
 
 https://github.com/avelino/awesome-go [list of awesome Go frameworks, libraries and software]
@@ -276,3 +274,22 @@ https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555/ref=sr_1_1?keywo
 https://github.com/golang/go/wiki/Modules [working with modules - create your own, git/github/repps and modules]
 
 https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go [book & summary check]
+
+https://jordanorelli.com/post/42369331748/function-types-in-go-golang [excelent post, all about functions]
+
+https://www.reddit.com/r/golang/comments/e3e64g/this_week_in_go_25_blogs_tools_that_werent_shared/ [various Go posts]
+
+https://stackoverflow.com/questions/53808947/how-to-correctly-use-composition-in-go [composition/inheritance]
+
+https://golangbot.com/inheritance/ [good go web site - inheritance/composition]
+
+<br>
+[**RUST**]
+<br>
+https://cheats.rs/
+
+https://doc.rust-lang.org/book/index.html
+
+https://stevedonovan.github.io/rust-gentle-intro/
+
+https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
