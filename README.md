@@ -284,7 +284,7 @@ https://stackoverflow.com/questions/53808947/how-to-correctly-use-composition-in
 https://golangbot.com/inheritance/ [good go web site - inheritance/composition]
 
 <br>
-[**RUST**]
+[ **RUST** ]
 <br>
 https://cheats.rs/
 
