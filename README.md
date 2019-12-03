@@ -292,7 +292,9 @@ https://learning-cloud-native-go.github.io/docs/a.overview/ [Building a Dockeriz
 https://www.golang-book.com/books/intro [An Introduction to Programming in Go]
 
 <br>
+
 **RUST**
+
 <br>
 https://cheats.rs/
 
@@ -303,7 +305,9 @@ https://stevedonovan.github.io/rust-gentle-intro/
 https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
 
 <br>
+
 **Erlang/Elixir**
+
 <br>
 
 * Elixir in Action
