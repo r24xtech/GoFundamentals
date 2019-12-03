@@ -283,8 +283,16 @@ https://stackoverflow.com/questions/53808947/how-to-correctly-use-composition-in
 
 https://golangbot.com/inheritance/ [good go web site - inheritance/composition]
 
+https://golang.org/pkg/ [check out all Go packages]
+
+https://www.openmymind.net/The-Little-Go-Book/ [The Little Go Book]
+
+https://learning-cloud-native-go.github.io/docs/a.overview/ [Building a Dockerized RESTful API application]
+
+https://www.golang-book.com/books/intro [An Introduction to Programming in Go]
+
 <br>
-[ **RUST** ]
+**RUST**
 <br>
 https://cheats.rs/
 
@@ -293,3 +301,21 @@ https://doc.rust-lang.org/book/index.html
 https://stevedonovan.github.io/rust-gentle-intro/
 
 https://rustwasm.github.io/docs/book/ [Rust to WebAssembly]
+
+<br>
+**Erlang/Elixir**
+<br>
+
+* Elixir in Action
+* Little Elixir/OTP Guidebook
+* Metaprogramming Elixir
+* Designing Elixir Systems with OTP.
+* Designing for Scalability with Erlang/OTP
+
+https://alchemist.camp/episodes
+
+https://prograils.com/posts/elixir-books-for-beginners?utm_source=reddit&utm_medium=referral&utm_campaign=elixir-books-1
+
+https://www.reddit.com/r/elixir/comments/ccgehx/recommend_some_good_elixir_learning_resources/
+
+https://www.amazon.com/s?k=elixir&i=stripbooks-intl-ship&ref=nb_sb_noss
