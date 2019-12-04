@@ -295,6 +295,7 @@ https://stackoverflow.com/questions/30612611/what-does-go-build-build#30612612 [
 
 https://stackoverflow.com/questions/46646559/golang-project-directory-structure [Golang project directory structure]
 
+
 <br>
 
 **RUST**
@@ -327,3 +328,7 @@ https://prograils.com/posts/elixir-books-for-beginners?utm_source=reddit&utm_med
 https://www.reddit.com/r/elixir/comments/ccgehx/recommend_some_good_elixir_learning_resources/
 
 https://www.amazon.com/s?k=elixir&i=stripbooks-intl-ship&ref=nb_sb_noss
+
+https://thinkingelixir.com/available-courses/pattern-matching/
+
+https://www.poeticoding.com/
