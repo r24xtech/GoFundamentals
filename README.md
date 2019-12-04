@@ -291,6 +291,8 @@ https://learning-cloud-native-go.github.io/docs/a.overview/ [Building a Dockeriz
 
 https://www.golang-book.com/books/intro [An Introduction to Programming in Go]
 
+https://stackoverflow.com/questions/30612611/what-does-go-build-build#30612612 [Go commands build, install & bin/pkg/src]
+
 <br>
 
 **RUST**
