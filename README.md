@@ -295,6 +295,9 @@ https://stackoverflow.com/questions/30612611/what-does-go-build-build#30612612 [
 
 https://stackoverflow.com/questions/46646559/golang-project-directory-structure [Golang project directory structure]
 
+https://www.golangprograms.com/interface-embedding-another-interface-in-go-programming-language.html [interfaces & polymorphism]
+
+https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c [interfaces]
 
 <br>
 
