@@ -332,3 +332,19 @@ https://www.amazon.com/s?k=elixir&i=stripbooks-intl-ship&ref=nb_sb_noss
 https://thinkingelixir.com/available-courses/pattern-matching/
 
 https://www.poeticoding.com/
+
+https://joyofelixir.com/toc.html
+
+https://elixirschool.com/en/
+
+https://elixir-lang.org/learning.html
+
+https://elixirjobs.net/
+
+1. Introducing Elixir (2nd edition, covers 1.4) by Simon L. and J. David E.
+2. Erlang and Elixir for Imperative Programmers (2016) by Wolfgang Loder
+3. Elixir in Action (2nd edition, 2019) by Sasa Juric
+4. Phoenix in Action (Covers Phoenix 1.4) by Geoffrey Lessel
+5.  The Little Elixir & OTP Guidebook (2016) by  Benjamin Tan Wei Hao
+6. Programming Elixir 1.6 by Dave Thomas
+7. Introducing Erlang (2013) by Simon L.
