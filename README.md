@@ -344,6 +344,8 @@ https://elixir-lang.org/learning.html
 
 https://elixirjobs.net/
 
+https://learnyousomeerlang.com/content
+
 1. Introducing Elixir (2nd edition, covers 1.4) by Simon L. and J. David E.
 2. Erlang and Elixir for Imperative Programmers (2016) by Wolfgang Loder
 3. Elixir in Action (2nd edition, 2019) by Sasa Juric
