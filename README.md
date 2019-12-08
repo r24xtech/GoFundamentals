@@ -299,6 +299,14 @@ https://www.golangprograms.com/interface-embedding-another-interface-in-go-progr
 
 https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c [interfaces]
 
+https://nanxiao.gitbooks.io/golang-101-hacks/posts/io-reader-interfaces.html [golang 101 hacks]
+
+https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/socket/tcp_sockets.html [network programming with go]
+
+https://github.com/schadokar/go-to-do-app [go to do app]
+
+https://github.com/search?l=Go&q=network+go&type=Repositories [go network search on GitHub]
+
 <br>
 
 **RUST**
