@@ -346,6 +346,20 @@ https://elixirjobs.net/
 
 https://learnyousomeerlang.com/content
 
+http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf
+
+https://spawnedshelter.com/
+
+https://www.erlang-in-anger.com/
+
+https://adoptingerlang.org/docs/introduction/
+
+https://codestool.coding-gnome.com/courses/elixir-for-programmers
+
+https://elixirforum.com/ ==> get promo code for pragprog books
+
+https://pragprog.com/titles/category/elixir?f[sort_by]=pubdate&f[category]=elixir&f[skill_level]=All&f[title_contains]=
+
 1. Introducing Elixir (2nd edition, covers 1.4) by Simon L. and J. David E.
 2. Erlang and Elixir for Imperative Programmers (2016) by Wolfgang Loder
 3. Elixir in Action (2nd edition, 2019) by Sasa Juric
