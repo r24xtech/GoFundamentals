@@ -307,6 +307,8 @@ https://github.com/schadokar/go-to-do-app [go to do app]
 
 https://github.com/search?l=Go&q=network+go&type=Repositories [go network search on GitHub]
 
+https://developer20.com/i-want-to-learn-go/?utm_source=reddit&utm_medium=link&utm_campaign=i-want-to-learn-go [list of resources]
+
 <br>
 
 **RUST**
